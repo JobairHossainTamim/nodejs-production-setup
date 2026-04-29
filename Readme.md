@@ -36,3 +36,8 @@
 
 - Install nodemon:
   - `npm i -D nodemon`
+
+## commit lint
+
+- Config  
+  -`npm i @commitlint/cli @commitlint/config-conventional -D`
