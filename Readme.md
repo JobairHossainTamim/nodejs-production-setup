@@ -37,7 +37,16 @@
 - Install nodemon:
   - `npm i -D nodemon`
 
-## commit lint
+## 📝 Commit Lint
 
-- Config  
-  -`npm i @commitlint/cli @commitlint/config-conventional -D`
+- Install commitlint:
+  - `npm i @commitlint/cli @commitlint/config-conventional -D`
+
+## 🧹 ESLint Setup
+
+- Install ESLint and dependencies:
+  - `npm install --save-dev eslint @eslint/js @types/eslint__js typescript-eslint`
+- Update to latest versions:
+  - `npm install --save-dev eslint@latest @eslint/js@latest`
+- Run ESLint:
+  - `npx eslint .`
