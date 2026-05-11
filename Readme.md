@@ -59,3 +59,11 @@
 
     `npm i -D eslint-config-prettier`
 
+## Dotenv
+
+`npm i -D  dotenv`
+`npm i dotenv-flow`
+`npm i cross-env`
+
+npm install -D typescript @types/node tsx nodemon
+npm install -D nodemon tsx
